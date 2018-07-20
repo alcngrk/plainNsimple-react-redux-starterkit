@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
+import PlaceHolder from './components/place_holder_component';
 //import {ComponentName} from './components/{component_name}';
 
 class App extends React.Component
@@ -9,7 +9,8 @@ class App extends React.Component
   {
     return(
       <div>
-        Plain&Simple
+        Plain & Simple
+        <PlaceHolder />
       </div>
     );
   }
