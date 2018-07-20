@@ -1,12 +1,12 @@
 {
-  "name": "ananisikim",
+  "name": "plain&simple",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
-  "author": "",
+  "author": "Mehmet Alican Gork",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
